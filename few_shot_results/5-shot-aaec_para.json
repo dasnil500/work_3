@@ -1,0 +1,9 @@
+{
+    "component_precision": 0.5454545454545454,
+    "component_recall": 0.5497630331753555,
+    "component_f1": 0.5476003147128247,
+    "relation_precision": 0.17687074829931973,
+    "relation_recall": 0.2249690976514215,
+    "relation_f1": 0.19804134929270947,
+    "component_macro_f1": 0.4356411122948161
+}

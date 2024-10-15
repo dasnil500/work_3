@@ -1,0 +1,14 @@
+# *.txt
+*model.bin
+*.pth
+*.safetensors
+*.pt
+model
+test.py
+train.sh
+evaluate_orig.py
+config.json
+generation_config.json
+tokenizer_config.json
+tokenizer.json
+special_tokens_map.json

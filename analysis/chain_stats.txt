@@ -1,0 +1,108 @@
+
+Processing Dataset: cdcp, Model Variant: base -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 4.00%
+
+True chains length distribution: {2: 53, 3: 28, 4: 3}
+Predicted chains length distribution: {2: 42, 3: 21}
+Correct chains length distribution: {2: 2, 3: 1}
+
+Percentage of correctly predicted 2-length chains: 6.52%
+Percentage of correctly predicted 3-length chains: 3.57%
+Percentage of correctly predicted 4-length chains: 0.00%
+
+Processing Dataset: cdcp, Model Variant: xl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 20.00%
+
+True chains length distribution: {2: 53, 3: 28, 4: 3}
+Predicted chains length distribution: {2: 59, 3: 31, 4: 3}
+Correct chains length distribution: {2: 11, 3: 6, 4: 1}
+
+Percentage of correctly predicted 2-length chains: 26.09%
+Percentage of correctly predicted 3-length chains: 25.00%
+Percentage of correctly predicted 4-length chains: 33.33%
+
+Processing Dataset: cdcp, Model Variant: xxl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 4.00%
+
+True chains length distribution: {2: 53, 3: 28, 4: 3}
+Predicted chains length distribution: {2: 34, 3: 17}
+Correct chains length distribution: {2: 2, 3: 1}
+
+Percentage of correctly predicted 2-length chains: 10.87%
+Percentage of correctly predicted 3-length chains: 7.14%
+Percentage of correctly predicted 4-length chains: 0.00%
+
+Processing Dataset: aaec_para, Model Variant: base -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 29.68%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 215, 3: 111, 4: 7, 5: 1}
+Correct chains length distribution: {2: 95, 3: 49, 4: 3}
+
+Percentage of correctly predicted 2-length chains: 39.46%
+Percentage of correctly predicted 3-length chains: 30.00%
+Percentage of correctly predicted 4-length chains: 18.75%
+
+Processing Dataset: aaec_para, Model Variant: xl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 39.35%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 290, 3: 150, 4: 10}
+Correct chains length distribution: {2: 123, 3: 62, 4: 1}
+
+Percentage of correctly predicted 2-length chains: 50.68%
+Percentage of correctly predicted 3-length chains: 40.59%
+Percentage of correctly predicted 4-length chains: 6.25%
+
+Processing Dataset: aaec_para, Model Variant: xxl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 34.19%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 216, 3: 111, 4: 6}
+Correct chains length distribution: {2: 108, 3: 55, 4: 2}
+
+Percentage of correctly predicted 2-length chains: 43.88%
+Percentage of correctly predicted 3-length chains: 33.53%
+Percentage of correctly predicted 4-length chains: 12.50%
+
+Processing Dataset: aaec_para_v2, Model Variant: base -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 27.74%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 286, 3: 148, 4: 10}
+Correct chains length distribution: {2: 86, 3: 43}
+
+Percentage of correctly predicted 2-length chains: 38.44%
+Percentage of correctly predicted 3-length chains: 27.06%
+Percentage of correctly predicted 4-length chains: 0.00%
+
+Processing Dataset: aaec_para_v2, Model Variant: xl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 35.48%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 249, 3: 128, 4: 7, 5: 1}
+Correct chains length distribution: {2: 111, 3: 56, 4: 1}
+
+Percentage of correctly predicted 2-length chains: 46.26%
+Percentage of correctly predicted 3-length chains: 35.29%
+Percentage of correctly predicted 4-length chains: 6.25%
+
+Processing Dataset: aaec_para_v2, Model Variant: xxl -----------------------------------------------
+
+Percentage of EXACT MATCH Correct Chains of All Lengths: 35.48%
+
+True chains length distribution: {2: 326, 3: 171, 4: 16}
+Predicted chains length distribution: {2: 218, 3: 112, 4: 6}
+Correct chains length distribution: {2: 113, 3: 58, 4: 3}
+
+Percentage of correctly predicted 2-length chains: 43.54%
+Percentage of correctly predicted 3-length chains: 35.88%
+Percentage of correctly predicted 4-length chains: 18.75%

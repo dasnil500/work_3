@@ -1,0 +1,2766 @@
+
+
+essay_id: 00802
+AC_1: "I review about 200-300 civil cases a month and very rarely is service done improperly."
+AC_2: "I believe that most Defendants are properly served.
+"
+Key Phrases of AC_1:
+  - Civil cases
+  - Service done improperly
+  
+Key Phrases of AC_2:
+  - Most Defendants
+  - Properly served
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Civil cases", "Most Defendants")
+  - ("Service done improperly", "Properly served")
+
+Reason:
+  - In reviewing civil cases, I see improper service occasionally.
+  - However, I think most defendants were properly served.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00802
+AC_1: "but in my experience the majority of defendants have been properly served."
+AC_2: "I believe that most Defendants are properly served.
+"
+Key Phrases of AC_1:
+  - Majority of defendants
+  - Properly served
+  
+Key Phrases of AC_2:
+  - Most Defendants
+  - Properly served
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Majority of defendants", "Most Defendants") #Note: This line was added manually because there's no direct relation found using code.
+  - ("Properly served", "Properly served") #Note: This line was also added manually since both arguments share this phrase.
+
+Reason:
+  - There isn't any clear connection between'majority' and'most'.
+  - Both statements agree on being properly served.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01345
+AC_1: "Take for example Sallie Mae, this company has it on file that i dod not graduate from college  and i did graduate. Their collections agencies are like loan sharks going to the extreme of making threats and cussing out students who cannot make payments."
+AC_2: "Student Loans, Many of the problems that students are facing are with student loans from the private sector.
+"
+AC_1's Key Phrases:
+  - Student Loans
+  - Private Sector
+  - Collections Agencies
+  - Loan Sharks
+  - Threats
+  - Cussing Out Students
+  - Cannot Make Payments
+  - Did Not Graduate From College
+  - Graduated
+
+AC_2's Key Phrases:
+  - Problems That Students Are Facing
+  - With Student Loans
+  - From The Private Sector
+
+Related Key Phrases Between AC_1 And AC_2 :
+  - (Collections Agencies, Problems)
+  - (Loan Sharks, Private Sector)
+  - (Threats, Problems)
+  - (Cussing Out Students, Problems)
+
+Reason For Each Related Phrase:
+  - Collections agencies cause problems for students.
+  - Loan sharks operate within the private sector.
+  - Making threats causes problems for students.
+  - Being cursed at causes problems for students.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01345
+AC_1: "Paying for college is a marathon not a sprint  and these companies treat the repayment of student loans like a sprint."
+AC_2: "Their collection practices, customer service and lack of options are usually the reason why students default on their loans.
+"
+Step 1: Key Phrases of Argument AC_1 = ["paying for college","marathon"]
+Step 2: Key Phrases of Argument AC_2 = ["collection practices","customer service"]
+
+Step 3: Related Key Phrases between AC_1 and AC_2 = [("paying for college", "collection practices"),("paying for college", "customer service")]
+
+Step 4: Reason for Each Individual Related Phrase
+    * Paying for college causes collection practices.
+    * Paying for college affects customer service.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01345
+AC_1: "Their collection practices, customer service and lack of options are usually the reason why students default on their loans."
+AC_2: "I think they need to offer more options to students.
+"
+Key Phrases of AC_1:
+  - Collection practices
+  - Customer service
+  - Lack of options
+  
+Key Phrases of AC_2:
+  - Offer more options
+  - Students
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collection practices", "Offer more options")
+  - ("Customer service", "Offer more options")
+  - ("Lack of options", "Students")
+  - ("Customerservice", "Students") #Note: This one might seem incorrect at first glance because there's no direct relation between customerservice and students. However, if we look closely, offering more options would directly impact student-customers' experience hence this phrase was included)
+
+Reason:
+  - Offering more options could improve collection practices.
+  - Better customer service may lead to more options being offered.
+  - Providing more options reduces the likelihood of students defaulting due to lack thereof.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01345
+AC_1: "Paying for college is a marathon not a sprint  and these companies treat the repayment of student loans like a sprint."
+AC_2: "I think they need to offer more options to students.
+"
+Key Phrases of AC_1:
+  - Paying for college
+  - Marathon
+  - Sprint
+  - Repayment of student loans
+  
+Key Phrases of AC_2:
+  - Offer more options
+  - Students
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Marathon", "Offer more options")
+  - ("Repayment of student loans", "Students")
+  - ("Sprint", "Options")
+
+Reason:
+  - Treating paying for college as a marathon means offering more options to students.
+  - Companies treating repayment of student loans like a sprint affects students directly.
+  - Options given to students might make them run faster (sprint) towards their goals.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01127
+AC_1: "For example - the first sentence says unless you dispute the debt, it will be considered valid ("dispute" and "valid" aren't defined), but then goes on to say what the creditor will do if you notify them in writing."
+AC_2: "So if the consumer only disputes verbally, what rights do they have, if any?
+"
+AC_1:
+  - Dispute
+  - Valid
+  - Creditor
+  - Notify
+
+AC_2:
+  - Consumer
+  - Rights
+  - Verbal
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Dispute", "Rights")
+  - ("Valid", "Verbal")
+  - ("Creditor", "Consumer")
+  - ("Notify", "Rights")
+
+Reason:
+  - If there's no written dispute, consumers may lose their right to claim anything against creditors.
+  - In this case, verbal communication might lead to invalid claims or loss of rights.
+  - Creditors deal directly with consumers who need to inform them through notifications (written).
+  - Written notification ensures consumers' rights remain intact.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01127
+AC_1: "However, I don't think the law, as written, is easy to understand."
+AC_2: "I think the law should be clarified,
+"
+Key Phrases of AC_1:
+  - Law
+  - Understand
+
+Key Phrases of AC_2:
+  - Clarified
+  - Law
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Law", "Clarified")
+  - ("Understand", "Clarified")
+
+Reason:
+  - The law needs clarification so people can easily understand it.
+  - Clarity will help make the law easier to comprehend.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01127
+AC_1: "That way, debt collectors don't have to worry about overshadowing and trying to fit everything onto one page, or with the tricky area of providing legal advice by interpreting the FDCPA for the consumer."
+AC_2: "and then I think the CFPB should create a uniform "Summary of Consumer Rights" that can be required to be included with all initial letters from collectors.
+"
+Key Phrases of AC_1:
+  - Debt collectors
+  - Overshadowing
+  - Legal advice
+  - FDCPA
+  - Tricky area
+  
+Key Phrases of AC_2:
+  - Uniform Summary of Consumer Rights
+  - Initial letters
+  - Collectors
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt collectors", "Initial letters")
+  - ("Legal advice", "Uniform Summary of Consumer Rights")
+  - ("FDCPA", "Tricky area")
+  - ("Overshadowing", "Collectors")
+
+Reason:
+  - Debt collectors deal with initial letters.
+  - Providing legal advice involves creating a summary of consumer rights.
+  - Understanding FDCPA might involve dealing with tricky areas.
+  - Overshadowing relates to collectors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01127
+AC_1: "Also, consumers can get a consistent message from all collectors."
+AC_2: "and then I think the CFPB should create a uniform "Summary of Consumer Rights" that can be required to be included with all initial letters from collectors.
+"
+Key Phrases of AC_1:
+  - Consistent message
+  - Collectors
+  
+Key Phrases of AC_2:
+  - Uniform Summary of Consumer Rights
+  - Initial letters
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consistent message", "Uniform Summary of Consumer Rights")
+  - ("Collectors", "Initial letters")
+
+Reason:
+  - Consumers receive a consistent message when they see a uniform summary of consumer rights on their initial letter from collectors.
+  - All initial letters sent out by collectors will include this information so there's no confusion among consumers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01312
+AC_1: "This in itself would be bubble jeopardy in a criminal case of law."
+AC_2: "However, the debt owner or debt collection company should not be allowed to have a second chance to sue you for the old debt.
+"
+Key Phrases of AC_1:
+  - Bubble jeopardy
+  - Criminal case of law
+  
+Key Phrases of AC_2:
+  - Debt owner
+  - Second chance to sue
+ 
+ Related Key Phrases between AC_1 and AC_2 :
+   - ("Bubble jeopardy", "Second chance to sue")   
+ Reason:
+    - Having a second chance to sue could lead to bubble jeopardy in a criminal case of law.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01312
+AC_1: "Because they were not the original lender in the first place."
+AC_2: "Note: A collection company that purchased the account for pennies on the dollar,should "ONLY" be allowed to collect the amount of monies they purchased the account for plus any regulated reasonable fee amount.
+"
+Key Phrases of AC_1:
+  - Original lender
+  - Pennies on the dollar
+  
+Key Phrases of AC_2:
+  - Collection company
+  - Regulated reasonable fee amount
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Original lender", "Collection company")
+  - ("Pennies on the dollar", "Regulated reasonable fee amount")
+
+Reason:
+  - A collection company was not an original lender.
+  - Purchasing accounts at pennies on the dollar means paying a regulated reasonable fee amount.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01018
+AC_1: "Debt collectors are not permitted to "overshadow" the validation notice by giving consumers deadlines, making demands for payments, or giving settlement offers."
+AC_2: "Unfortunately, a few of the suggestions you made would actually violate the FDCPA.
+"
+Key Phrases of AC_1:
+  - Debt collectors
+  - Validation notice
+  - Deadlines
+  - Demands for payment
+  - Settlement offer
+  
+Key Phrases of AC_2:
+  - Suggestions
+  - Violate the FDCPA
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Validation notice", "FDCPA") # Reason: The validation notice is part of the FDCPA.
+  - ("Deadlines", "Demands for payment") # Reason: Both deadlines and demands for payment are methods used by debt collectors.
+  - ("Settlement offer", "Suggestions") # Reason: Making settlement offers could be considered one of the suggestions given by debt collectors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01018
+AC_1: "If the consumer truly has a disagreement or dispute with the debt being collected, he or she should be able to articulate that dispute."
+AC_2: "Further, I don't believe consumers need a "sample" dispute notice.
+"
+Key Phrases of AC_1:
+  - Consumer
+  - Dispute
+  - Debt collection
+  
+Key Phrases of AC_2:
+  - Consumers
+  - Sample
+  - Notice
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumer", "Sample")
+  - ("Dispute", "Notice")
+  - ("Debt collection", "Consumers")
+
+Reason:
+  - In case of any sample issue, consumer may raise a dispute.
+  - If there's an issue with the notice, then it might lead to a dispute.
+  - Debt collectors deal directly with consumers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00551
+AC_1: "as the only numbers that are held consistently in the database afaik "By Law" are verified and confirmed numbers."
+AC_2: "the chance of repeat calls in urban centers harassing certain members of the public is plausible 
+"
+AC_1 = ["verified","confirmed"]
+AC_2 = ["harassing","plausible"]
+
+related_phrases_AC_1_and_AC_2 = [("verified","harassing"),("confirmed","plausible")]
+
+reasons_related_phrases = [
+    ("verified","harassing"):"Harassment may require verification.",
+    ("confirmed","plausible"): "Plausibility needs confirmation."]
+    
+print(AC_1)
+print(AC_2)
+print(related_phrases_AC_1_and_AC_2)
+for i,j in reasons_related_phrases.items():
+	print(i,"-",j)
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00627
+AC_1: "and any collector who follows that is clearly trying to harass."
+AC_2: "I think limitation is good as not to harass.
+"
+AC_1's Key Phrases:
+  - Collector
+  - Harass
+
+AC_2's Key Phrases:
+  - Limitation
+  - Harass
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collector", "Limitation")
+  - ("Harass", "Harass") # Same word so no need to explain why they're related
+
+Reason:
+  - Collectors may follow limitations to avoid harassing people.
+  - Limitations help prevent harassment.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00627
+AC_1: "Who else would someone call 3-4 times in a day?"
+AC_2: "I think limitation is good as not to harass.
+"
+Key Phrases of AC_1:
+  - Someone
+  - Call 3-4 times
+  
+Key Phrases of AC_2:
+  - Limitation
+  - Harass
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Someone", "Limitation")
+  - ("Call 3-4 times", "Harass")
+
+Reason:
+  - Calling someone multiple times may require some limitations so they don't feel harassed.
+  - Having limits on calls prevents harassment.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00627
+AC_1: "Customarily, in personal phone calls and business phone calls, if a message is left, the caller will leave a message and wait a couple of days before calling back if the person has yet to return the phone call. This is the way normal phone etiquette works--both in personal phone calls and in business calls."
+AC_2: "I think limitation is good as not to harass.
+"
+Key Phrases of AC_1:
+  - Personal phone calls
+  - Business phone calls
+  - Phone etiquette
+  
+Key Phrases of AC_2:
+  - Limitation
+  - Harassment
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Phone etiquette", "Limitation")
+  - ("Harassment", "Business phone calls") #Note: this one might seem unrelated at first glance, however, harassment could occur through excessive or unwanted business calls.
+
+Reason:
+  - Good phone etiquette includes leaving messages without harassing people.
+  - Leaving too many business calls may be considered harassment.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00627
+AC_1: "Who else would someone call 3-4 times in a day?"
+AC_2: "and any collector who follows that is clearly trying to harass.
+"
+Key Phrases of AC_1:
+  - Someone
+  - Call
+  - Day
+  
+Key Phrases of AC_2:
+  - Collector
+  - Harass
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Someone", "Collector")
+  - ("Call", "Harass")
+
+Reason:
+  - Collectors often try to contact people multiple times per day.
+  - Calling repeatedly could be considered harassment.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00627
+AC_1: "Otherwise, a collector could call 1 time a day, 7 times a week, 30 times in a month, etc."
+AC_2: "But, with the example of 1 call per day, I would think that there would also need to be another limitation such as 1 call per day or no more than 4 calls in a week.
+"
+Key Phrases of AC_1:
+  - Collector
+  - Call
+  - Day
+  - Week
+  - Month
+  
+Key Phrases of AC_2:
+  - Limitation
+  - Calls
+  - Per day
+  - Per week
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collector", "Limitations")
+  - ("Call", "Calls")
+  - ("Day", "Per day")
+  - ("Week", "Per week")
+  - ("Month", "No more than") 
+  
+Reason:
+  - There needs to be limitations on collectors' actions.
+  - Collectors make multiple calls.
+  - Daily limits apply to both sides (collector and customer).
+  - Weekly limits may also apply.
+  - Monthly limits might exist too.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00404
+AC_1: "With the knowledge that this legislation is both to improve debt collection practices (helping the credit industry) and to educate and protect consumers (to increase confidence and enforce their rights), this is especially relevent."
+AC_2: "I am concerned about the perception consumers have concerning older debts.
+"
+Key Phrases of AC_1:
+  - Debt collection practices
+  - Credit industry
+  - Educate and protect consumers
+  - Increase confidence
+  - Enforce consumer's right
+  
+Key Phrases of AC_2:
+  - Perception consumers
+  - Older debts
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt collection practices", "Perception consumers")
+  - ("Credit industry", "Older debts")
+  - ("Educate and protect consumers", "Increase confidence")
+  - ("Enforce consumer's right", "Protect consumers")
+
+Reason:
+  - This legislation aims at improving debt collection practices while also educating and protecting consumers.
+  - Consumers' perceptions on older debts might affect the effectiveness of such legislation.
+  - Protecting consumers will help them feel confident when dealing with old debts.
+  - By enforcing consumers' rights, they will be protected against unfair treatment regarding older debts.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00404
+AC_1: "If a debt is outstanding, and repying part (or all) of this debt actually would *worsen* a consumer's credit, it seems counter-intuitive."
+AC_2: "I believe this should be concerning.
+"
+AC_1:
+  - Outstanding debt
+  - Repaying debt worsens credit
+
+AC_2:
+  - Concerning issue
+  - Consumer's financial situation
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Outstanding debt", "Concerning issue")
+  - ("Repaying debt worsens credit", "Consumer's financial situation")
+
+Reason:
+  - An outstanding debt may lead to a concerning financial situation.
+  - If paying off debt worsens your credit score, then consumers' financial situations might be worse due to such policies.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00404
+AC_1: "It works both against the interests of creditors and debt collectors - and the interest of consumers who owe money on a debt."
+AC_2: "I believe this should be concerning.
+"
+Key Phrases of AC_1:
+  - Creditors
+  - Debt collectors
+  - Consumers who owe money on a debt
+
+Key Phrases of AC_2:
+  - This
+  - Concerning
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Creditors", "This")
+  - ("Debt collectors", "Concerning")
+  - ("Consumers who owe money on a debt", "This")
+
+Reason:
+  - It affects the interests of creditors.
+  - It concerns debt collectors.
+  - It impacts consumers who owe money on a debt.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00785
+AC_1: "It seems to make sense for sellers to send notification."
+AC_2: "I think it should be kept uniform.
+"
+Key Phrases of AC_1:
+  - Sellers
+  - Notification
+  
+Key Phrases of AC_2:
+  - Uniform
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Notification", "Uniform")
+
+Reason:
+  - Sending notifications keeps things uniform.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00588
+AC_1: "The name of the agency is the CONSUMER Financial Protection Bureau not the Collector Financial Protection Bureau."
+AC_2: "and consumers have the CFPB.
+"
+Key Phrases of AC_1:
+  - Consumer Financial Protection Bureau
+  - Collector Financial Protection Bureau
+  
+Key Phrases of AC_2:
+  - Consumers
+  - CFPB
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumer Financial Protection Bureau", "CFPB") 
+  - ("Collector Financial Protection Bureau", "Consumers")
+
+Reason:
+  - The correct name of the bureau is indeed the Consumer Financial Protection Bureau (not Collector).
+  - We know there's an organization called CFPB because it serves consumers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00588
+AC_1: "The name of the agency is the CONSUMER Financial Protection Bureau not the Collector Financial Protection Bureau."
+AC_2: "The goal is to protect consumers from illegal practices by certain industries 
+"
+Key Phrases of AC_1:
+  - Consumer Financial Protection Bureau
+  - Protect consumers
+  
+Key Phrases of AC_2:
+  - Illegal practices
+  - Certain industries
+ 
+ Related Key Phrases between AC_1 and AC_2 :
+   - ("Consumer Financial Protection Bureau", "Protect consumers")
+   - ("Illegal practices", "Certain industries") 
+ 
+ Reason:
+    - The purpose of the Consumer Financial Protection Bureau is to protect consumers.
+    - Industries engaging in illegal practices need protection.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00588
+AC_1: "and consumers have the CFPB."
+AC_2: "The goal is to protect consumers from illegal practices by certain industries 
+"
+Key Phrases of AC_1:
+  - Consumers
+  - CFPB
+  
+Key Phrases of AC_2:
+  - Protect consumers
+  - Illegal practices
+  - Certain industries 
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers", "Protect consumers")
+  - ("CFPB", "Illegal practices") #Note: This one might need some extra reasoning because they seem unrelated at first glance. However, if we look closely, CFPB does regulate against unfair or deceptive acts or practices (UDAP) under Section 5 of the Federal Trade Commission Act, so there's an indirect connection here.)
+  
+Reason:
+  - The CFPB protects consumers.
+  - The CFPB regulates against illegal practices.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01194
+AC_1: "Since it is a student loan,"
+AC_2: "it could go on forever.
+"
+AC_1 = ["student loan"]
+AC_2 = ["forever"]
+
+related_phrases = [("loan","forever")]
+reasons = [ 'Student loans may last indefinitely.']
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01194
+AC_1: "There is no statute of limitations for government guraranteed debt that I am aware of..."
+AC_2: "it could go on forever.
+"
+Key Phrases of AC_1:
+  - Government guaranteed debt
+  - Statute of limitations
+  
+Key Phrases of AC_2:
+  - Debt
+  - Forever
+ 
+ Related Key Phrases between AC_1 and AC_2 :
+   - ("Government guaranteed debt", "Debt") 
+   - ("Statute of limitations", "Forever")
+
+ Reason:
+    - There's no time limit for paying off debts backed by governments.
+    - It seems like there will never come an end to this situation.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01165
+AC_1: "because it bypassed the mail system."
+AC_2: "I would classify this as mail fraud
+"
+AC_1 = ["mail system"]
+AC_2 = ["Mail Fraud"]
+
+related_phrases = [("bypassed the mail system","Mail Fraud")]
+
+reasons = [
+    'Bypassing the mail system constitutes Mail Fraud.'
+]
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00423
+AC_1: "More information to the consumer with the initial notification would be more confusing and intimidating than it already is for them."
+AC_2: "Simplifying the initial notification while including information about how to contact someone if you do not recognized this obligation is the way to go.
+"
+Key Phrases of AC_1:
+  - Initial notification
+  - More information
+  - Confusing
+  - Intimidating
+  
+Key Phrases of AC_2:
+  - Simplify
+  - Contact someone
+  - Recognized obligation
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Initial notification", "Contact someone")
+  - ("Confusing", "Recognized obligation")
+  - ("Intimidating", "Recognized obligation")
+  - ("Information", "Obligation") #Note: This was added manually because there's no direct relation between'more information' and'simplify'. However, they both relate to obligations or notifications.
+
+Reason:
+  - Including too much information may confuse consumers who don't recognize their obligation.
+  - An overwhelming amount of information might intimidate those unfamiliar with their responsibilities.
+  - If an initial notification includes clear instructions on contacting authorities when unsure about one’s obligation, it will help avoid confusion and intimidation.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00423
+AC_1: "Then the CFPB can design and require everyone to send a separate Summary of Consumer Rights to a consumer."
+AC_2: "Simplifying the initial notification while including information about how to contact someone if you do not recognized this obligation is the way to go.
+"
+Key Phrases of AC_1:
+  - Separate summary
+  - Send to consumers
+  
+Key Phrases of AC_2:
+  - Simplify initial notification
+  - Contact information
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Separate summary", "Initial notification")
+  - ("Send to consumers", "Contact information")
+
+Reason:
+  - Sending a separate summary simplifies the initial notification process.
+  - Providing contact information allows consumers to reach out when they don't recognize their obligations.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00423
+AC_1: "It could also be available in the exact same form on the CFPB website and on informed professionals websites within the industry."
+AC_2: "Simplifying the initial notification while including information about how to contact someone if you do not recognized this obligation is the way to go.
+"
+Key Phrases of AC_1:
+  - Exact same form
+  - Informed professionals websites
+  
+Key Phrases of AC_2:
+  - Simplify the initial notification
+  - Contact someone
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Exact same form", "Initial notification")
+  - ("Informed professionals websites", "Contact someone")
+
+Reason:
+  - Initial notifications may appear in an exact same form across different platforms.
+  - Websites run by informed professionals provide ways to contact them.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00423
+AC_1: "This solution also bears the added advantage of making sure the public is aware of the assistance available through the CFPB."
+AC_2: "but I would suggest that the CFPB would serve everyone better by including that the CFPB would suggest that the consumer may be better served by keeping this communication available except as a last resort.
+"
+Key Phrases of AC_1:
+  - Solution
+  - Assistance available
+  - Public awareness
+
+Key Phrases of AC_2:
+  - Consumer protection agency (CFPB)
+  - Communication availability
+  - Last resort
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Solution", "Consumer protection agency (CFPB)")
+  - ("Assistance available", "Communication availability")
+  - ("Last resort", "Public awareness")
+
+Reason:
+  - This solution involves the help of the CFPB.
+  - Availability of information on assistance provided by the CFPB will make people aware of its services.
+  - In case of any issue, one might need to go back to the last option or resource after trying other options first.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00631
+AC_1: "since they will make a profit over what they paid the original creditor."
+AC_2: "Also, the collection agency should not be able to add interest on top of debt that seek judgment for if the debtor agrees to pay 
+"
+Key Phrases of AC_1:
+  - Profit
+  - Original creditor
+  - Debt
+
+Key Phrases of AC_2:
+  - Collection agency
+  - Interest
+  - Debtor
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Profit", "Interest")
+  - ("Original creditor", "Collection agency")
+  - ("Debt", "Debtor")
+
+Reason:
+  - Adding interest may increase profit.
+  - Collection agencies deal with creditors who collect debts owed by debtors.
+  - Both parties (creditor/debtor) are involved when dealing with debt.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "An automated dialing system allows for a much more efficient manner of calling delinquent account-holders."
+AC_2: "Manually dialing phones slows down businesses and raises costs;
+"
+Key Phrases of AC_1:
+  - Automated dialing system
+  - Delinquent account holders
+  
+Key Phrases of AC_2:
+  - Manually dialing phones
+  - Businesses
+  - Costs
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Automated dialing system", "Businesses")
+  - ("Delinquent account holders", "Costs")
+
+Reason:
+  - An automated dialing system speeds up business operations.
+  - Manual phone calls increase operational costs due to time spent on contacting delinquent customers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "Representatives are able to review the account history and status while the system connects the call,"
+AC_2: "Manually dialing phones slows down businesses and raises costs;
+"
+Key Phrases of AC_1:
+  - Account history
+  - Status
+  - System connect
+  
+Key Phrases of AC_2:
+  - Manually dialing phone
+  - Businesses slow down
+  - Raises cost
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Account history", "Raises cost")
+  - ("Status", "Businesses slow down")
+  - ("System connect", "Manually dialing phone") 
+  
+Reason:
+  - Reviewing account history may raise some extra costs.
+  - Checking status manually will make business slower.
+  - Using manual dialing instead of connecting through systems takes longer time.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "so the rep can quickly engage the customer."
+AC_2: "Manually dialing phones slows down businesses and raises costs;
+"
+Key Phrases of AC_1:
+  - Quickly engage the customer
+  - Rep
+
+Key Phrases of AC_2:
+  - Manually dialing phones
+  - Slows down businesses
+  - Raises costs
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Quickly engage the customer", "Raises costs")
+  - ("Rep", "Slows down businesses") 
+  
+Reason:
+  - Engaging customers quickly reduces business costs.
+  - Manual phone calls slow down businesses.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "To expand on the second point, automated dialing systems have a lot of built in controls that actually protect the consumer."
+AC_2: "Automated dialing has preventive measures built in that manually dialing does not.
+"
+Key Phrases of AC_1:
+  - Automated dialing system
+  - Built-in control
+  - Consumer protection
+  
+Key Phrases of AC_2:
+  - Preventive measure
+  - Manually dialing
+  - Automated dialing
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Built-in control", "Preventive measure")
+  - ("Consumer protection", "Manually dialing")
+  - ("Automated dialing system", "Automated dialing")
+
+Reason:
+  - Automated dialing systems contain built-in controls that serve as preventive measures.
+  - Manual dialing lacks protective features like those found in automated dialing systems.
+  - An automated dialing system itself involves automated dialing.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "Automated dialers can have filters in place that restrict calls to customers based on location, time of day, or even how many attempts have already been made."
+AC_2: "Automated dialing has preventive measures built in that manually dialing does not.
+"
+Key Phrases of AC_1:
+  - Automated dialer
+  - Filters
+  - Restrict calls
+  
+Key Phrases of AC_2:
+  - Preventive measure
+  - Manually dialing
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Filters", "Preventive measure")
+  - ("Restrict calls", "Manually dialing")
+
+Reason:
+  - Automated dialers include filters as a form of preventive measure.
+  - Restricting calls through automated dialers prevents manual dialing.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "In addition, calls made through the dialer can all be recorded"
+AC_2: "Automated dialing has preventive measures built in that manually dialing does not.
+"
+Key Phrases of AC_1:
+  - Dialer
+  - Recorded
+  
+Key Phrases of AC_2:
+  - Automated dialing
+  - Preventive measure
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Calls made through the dialer", "Preventive measures")
+  - ("Recorded", "Automated dialing")
+
+Reason:
+  - Calls made through automated dialers include preventive measures.
+  - Automated dialing allows recording of calls.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "so if there is a problem with the representative, the customer can refer back to the recording and the truth will come out."
+AC_2: "Automated dialing has preventive measures built in that manually dialing does not.
+"
+Step 1: Key Phrases of Argument AC_1 = ["representative", "customer"]
+Step 2: Key Phrases of Argument AC_2 = ["automated dialing", "manually dialing"]
+
+Step 3: Related Key Phrases between AC_1 and AC_2 = [("representative", "automated dialing"),("customer","manualy dialing")]
+
+Step 4: Reason for Each Individual Phrase
+    * Automated Dialing prevents problems with representatives.
+    * Manual dialing doesn't prevent issues with customers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "Representatives are able to review the account history and status while the system connects the call,"
+AC_2: "An automated dialing system allows for a much more efficient manner of calling delinquent account-holders.
+"
+Key Phrases of AC_1:
+  - Account history
+  - Status
+  - System
+  - Connects the call
+  
+Key Phrases of AC_2:
+  - Automated dialing system
+  - Delinquent account holders
+  - Efficient manner of calling
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Account history", "Automated dialing system")
+  - ("Status", "Delinquent account holders")
+  - ("System", "Efficient manner of calling")
+  - ("Connects the call", "Calling delinquent account-holders")
+
+Reason:
+  - An automated dialing system reviews an account's history.
+  - Representatives check the status of accounts when they connect calls.
+  - Systems make connections efficiently through automation.
+  - Calling delinquents involves connecting their calls.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "so the rep can quickly engage the customer."
+AC_2: "An automated dialing system allows for a much more efficient manner of calling delinquent account-holders.
+"
+Key Phrases of AC_1:
+  - Rep
+  - Customer
+  - Engage
+  
+Key Phrases of AC_2:
+  - Automated dialing system
+  - Delinquent account holders
+  - Efficient manner
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Rep", "Automated dialing system")
+  - ("Customer", "Delinquent account holders")
+  - ("Engage", "Efficient manner")
+
+Reason:
+  - An automated dialing system enables reps to efficiently engage customers.
+  - Customers who are delinquent on their accounts need an efficient manner of engagement.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "Representatives are able to review the account history and status while the system connects the call,"
+AC_2: "so the rep can quickly engage the customer.
+"
+Key Phrases of AC_1:
+  - Account history
+  - Status
+  - System connect
+
+Key Phrases of AC_2:
+  - Engage customer
+  - Quickly
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Account history", "Engage customer")
+  - ("Status", "Quickly")
+  - ("System connect", "Engage customer")
+
+Reason:
+  - Reviewing account history allows representatives to engage customers effectively.
+  - Knowing the current status enables reps to respond quickly.
+  - Connecting through the system facilitates quick engagement with customers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "Automated dialers can have filters in place that restrict calls to customers based on location, time of day, or even how many attempts have already been made."
+AC_2: "To expand on the second point, automated dialing systems have a lot of built in controls that actually protect the consumer.
+"
+Key Phrases of AC_1:
+  - Automated dialers
+  - Filters
+  - Location
+  - Time of day
+  - Attempts
+
+Key Phrases of AC_2:
+  - Automated dialing system
+  - Controls
+  - Protect the consumer
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Filters", "Controls")
+  - ("Location", "Protect the consumer")
+  - ("Time of day", "Protect the consumer")
+  - ("Attempts", "Protect the consumer")
+
+Reason:
+  - Dialer's filter acts like control mechanism.
+  - Restricting call at specific locations protects consumers.
+  - Limiting number of attempt also protects consumers.
+  - Calling during certain times of the day may help avoid disturbing people who do not want to receive such calls.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "In addition, calls made through the dialer can all be recorded"
+AC_2: "To expand on the second point, automated dialing systems have a lot of built in controls that actually protect the consumer.
+"
+Key Phrases of AC_1:
+  - Dialer
+  - Recorded
+  
+Key Phrases of AC_2:
+  - Automated dialing system
+  - Consumer protection
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Automated dialing system", "Recorded") # Reason: Calls made through an automated dialing system can be recorded.
+  - ("Consumer protection", "Dialer") # Reason: An automated dialing system protects consumers when used properly (e.g., recording calls).
+
+Note: This problem seems like a simple text analysis task where one needs to identify keyphrases from two arguments and then find relationships between them based on some predefined rules or heuristics. However, this kind of task might require Natural Language Processing techniques such as Named Entity Recognition, Part-of-Speech Tagging, Dependency Parsing etc. Also, finding relationships between entities could involve using knowledge graphs or semantic networks. But since no specific NLP library was mentioned I will assume basic string manipulation would suffice.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "so if there is a problem with the representative, the customer can refer back to the recording and the truth will come out."
+AC_2: "To expand on the second point, automated dialing systems have a lot of built in controls that actually protect the consumer.
+"
+Key Phrases of AC_1:
+  - Problem with the representative
+  - Customer can refer back to the recording
+  - Truth will come out
+  
+Key Phrases of AC_2:
+  - Automated dialing system
+  - Built-in control
+  - Protect the consumer
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Problem with the representative", "Automated dialing system")
+  - ("Customer can refer back to the recording", "Built-in control")
+  - ("Truth will come out", "Protect the consumer")
+
+Reason:
+  - If there's an issue with the rep, customers can review recordings via auto-dialers.
+  - Auto-dialer features help safeguard consumers through internal checks.
+  - When issues arise, reviewing records reveals what really happened, protecting consumers.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00823
+AC_1: "In addition, calls made through the dialer can all be recorded"
+AC_2: "so if there is a problem with the representative, the customer can refer back to the recording and the truth will come out.
+"
+Key Phrases of AC_1:
+  - Dialer
+  - Recording
+  
+Key Phrases of AC_2:
+  - Problem
+  - Representative
+  - Customer
+  - Truth
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Recording", "Truth")
+  - ("Representative", "Customer") # This one might need some reasoning why they're related (e.g., because customers interact with representatives)
+  - ("Problem", "Recording") # This one also needs explanation on why they're related (e.g., recordings help resolve problems)
+
+Reason:
+  - Recordings reveal the truth.
+  - Customers deal with representatives who may cause problems.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00428
+AC_1: "Calling someone's work is clearly and without dispute intended to embarrass and annoy."
+AC_2: "It is never acceptable.
+"
+Key Phrases of AC_1:
+  - Calling someone's work
+  - Clearly and without dispute intended to embarrass and annoy
+  
+Key Phrases of AC_2:
+  - It is never acceptable
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Clearly and without dispute intended to embarrass and annoy", "It is never acceptable")
+  
+Reason:
+  - If something is clearly and without dispute intended to embarrass and annoy then it is never acceptable.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "That raises too many privacy concerns."
+AC_2: "I don't think that the partial SSN should be included.
+"
+Key Phrases of AC_1:
+  - Privacy concerns
+  
+Key Phrases of AC_2:
+  - Partial SSN
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Privacy concerns", "Partial SSN")
+
+Reason:
+  - Including partial SSN may raise privacy concerns.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "And I'm sure that one day a debt collection company will have a "system malfunction" and will "accidentally" send the full SSN."
+AC_2: "I don't think that the partial SSN should be included.
+"
+AC_1's Key Phrases:
+  - Debt collection company
+  - System malfunction
+  - Accidental sending of SSN
+  
+AC_2's Key Phrases:
+  - Partial SSN
+  - Included
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt collection company", "Accidental sending of SSN")
+  - ("System malfunction", "Partial SSN")
+  - ("SSN", "Included") #Note: This was added manually because there were no other options available.
+
+Reasons:
+  - A debt collection company may accidentally send your social security number (SSN).
+  - If a system malfunctions at a debt collection agency, they might include part or even the whole of an applicant’s Social Security Number on documents sent out to creditors.
+  - Including the entire SSN could lead to identity theft if someone gets their hands on this information.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "Too many consumers have similar names in the same city."
+AC_2: "I don't think that the partial SSN should be included.
+"
+Key Phrases of AC_1:
+  - Consumers
+  - Similar names
+  - Same city
+  
+Key Phrases of AC_2:
+  - Partial SSN
+  - Included
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers", "Partial SSN")
+  - ("Similar names", "Included")
+  - ("Same city", "Included")
+
+Reason:
+  - Too many consumers having similar names in the same city may require including their partial SSNs.
+  - Including partial SSNs means they will be included in some data base or system.
+  - Having similar names in the same city might need them to be identified uniquely through inclusion of other information like partial SSN.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "If a mail thief is lurking, then he might have access to a consumers full SSN."
+AC_2: "I don't think that the partial SSN should be included.
+"
+Key Phrases of AC_1:
+  - Mail thief
+  - Consumers full SSN
+  
+Key Phrases of AC_2:
+  - Partial SSN
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Mail thief", "Partial SSN")
+  - ("Consumers full SSN", "Partial SSN")
+
+Reason:
+  - If there's a mail thief, they may obtain your entire social security number (SSN).
+  - Including just part of an SSN still poses risks.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "If a mail thief is lurking, then he might have access to a consumers full SSN."
+AC_2: "That raises too many privacy concerns.
+"
+Key Phrases of AC_1:
+  - Mail thief
+  - Consumers full SSN
+  
+Key Phrases of AC_2:
+  - Privacy concerns
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Mail thief", "Privacy concerns")
+  
+Reason:
+  - Accessing consumer's full social security number violates their right to privacy.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00522
+AC_1: "Too many consumers have similar names in the same city."
+AC_2: "And I'm sure that one day a debt collection company will have a "system malfunction" and will "accidentally" send the full SSN.
+"
+AC_1's Key Phrases:
+  - Consumers
+  - Names
+  - City
+  
+AC_2's Key Phrases:
+  - Debt Collection Company
+  - System Malfunction
+  - Social Security Number (SSN)
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers", "Debt Collection Company")
+  - ("Names", "Social Security Number (SSN)")
+  - ("City", "System Malfunction")
+
+Reasons:
+  - Too many consumers having similar names in the same city may lead to confusion when dealing with debt collection companies.
+  - Having multiple people sharing the same name in a small area could potentially cause issues if their social security numbers were mixed up or accidentally sent out due to system malfunctions at debt collection agencies.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01026
+AC_1: "it reduces confusion, reduces the risk of misapplied/lost payments, and produces a clear chain of ownership."
+AC_2: "The benefit is clear
+"
+Key Phrases of AC_1:
+  - Reduces confusion
+  - Risk of misapplied/lost payments
+  - Clear chain of ownership
+  
+Key Phrases of AC_2:
+  - Benefit is clear
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Reduces confusion", "Benefit is clear")
+  - ("Risk of misapplied/lost payments", "Benefit is clear")
+  - ("Clear chain of ownership", "Benefit is clear")
+  
+Reason:
+  - It clarifies things so there's no confusion.
+  - This also minimizes lost or incorrect payment risks.
+  - And this provides clarity on who owns what.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "because I pay off my balance each month."
+AC_2: "this was even stranger
+"
+AC_1 = ["pay off"]
+AC_2 = []
+related_phrases = [("balance","stranger")]
+reasons = []
+
+for i in range(len(related_phrases)):
+    reasons.append("There's no clear connection between 'balance' and'strange'.")
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "after all, I had initiated this mess."
+AC_2: "When the collection calls began, I was in a great mood
+"
+Key Phrases of AC_1:
+  - Initiated this mess
+  - Collection calls
+
+Key Phrases of AC_2:
+  - Great mood
+
+Related Key Phrases between AC_1 and AC_2 : 
+  - ("Initiated this mess", "Collection calls")
+  - ("Great mood", "Collection calls")
+
+Reason:
+  - Initiating a mess may lead to receiving collection calls.
+  - Receiving collection calls ruins your great mood.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "Without technical jargon, it means that the number we see on caller i.d. is never the number from which they're calling, "
+AC_2: "so you can't block their call
+"
+Key Phrases of AC_1:
+  - Technical jargon
+  - Caller ID
+  - Block calls
+  
+Key Phrases of AC_2:
+  - Number seen on caller I.D.
+  - Never the actual number called from
+  - Can't block their call
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Technical jargon", "Number seen on caller I.D.")
+  - ("Block calls", "Can't block their call")
+  
+Reason:
+  - Understanding technical jargon explains why numbers shown on caller id may differ from those actually used.
+  - If one cannot block unwanted calls, then blocking them becomes impossible.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "my provider allows me to block 12 numbers "
+AC_2: "and I wondered how these collection agencies were constantly squeaking by).
+"
+Key Phrases of AC_1:
+  - Block number
+  - Collection agency
+  
+Key Phrases of AC_2:
+  - Constantly squeak by
+  - Provider allow blocking
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Block number", "Provider allow blocking")
+  - ("Collection agency", "Constantly squeak by")
+
+Reason:
+  - My provider allows me to block certain phone numbers (collection agencies).
+  - These collection agencies seem to always find ways to make money despite being blocked.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "They robodial, "
+AC_2: "so you can and do get several calls per day and before 8:00 AM and after 9:00 PM,
+"
+AC_1_key_phrases = ["robodial"]
+AC_2_key_phrases = ["several calls per day","before 8:00 AM","after 9:00 PM"]
+
+related_AC_1_and_AC_2 = [("robodial", "several calls per day"),("robodial", "before 8:00 AM"),("robodial", "after 9:00 PM")]
+
+reasons_related_phrases = [
+    "Robocalls result in multiple daily calls.",
+    "Robocalls occur early morning or late evening.",
+    "Robocallers call at inconvenient times."]
+
+print(f"AC_1_key_phrases:\n{AC_1_key_phrases}")
+print("\n\nAC_2_key_phrases:")
+for i in range(len(AC_2_key_phrases)):
+    print(f"{i+1}. {AC_2_key_phrases[i]}")    
+print("\n\nrelated_AC_1_and_AC_2:")
+for i in range(len(related_AC_1_and_AC_2)):   
+    print(f"{i+1}. ({related_AC_1_and_AC_2[i][0]}, {related_AC_1_and_AC_2[i][1]})")     
+print("\n\nreasons_related_phrases:")       
+for i in range(len(reasons_related_phrases)):        
+    print(f"{i+1}. {reasons_related_phrases[i]}")
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01356
+AC_1: "since they know there is very little you can do about the early or late calls, besides whine"
+AC_2: "so you can and do get several calls per day and before 8:00 AM and after 9:00 PM,
+"
+Key Phrases of AC_1:
+  - Early call
+  - Late call
+  - Whine
+
+Key Phrases of AC_2:
+  - Several calls
+  - Before 8:00 AM
+  - After 9:00 PM
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Early call", "Before 8:00 AM")
+  - ("Late call", "After 9:00 PM")
+  - ("Whine", "Several calls") #Note: This one might seem unrelated at first glance, however, people often complain (whine) when receiving multiple calls during non-working hours.
+
+Reason:
+  - You receive an early call before 8:00 AM.
+  - You also receive a late call after 9:00 PM.
+  - People tend to whine because they received several unwanted calls.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "Only one collector took me off their list."
+AC_2: "I made a comment below and would like to know how to make them stop calling me for my deadbeat kids debt.
+"
+Key Phrases of AC_1:
+  - Collector
+  - List
+  
+Key Phrases of AC_2:
+  - Comment
+  - Debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collector", "Debt")
+  - ("List", "Comment")
+
+Reason:
+  - Collectors call people on lists because they owe money (debt).
+  - Making comments may help remove someone's name from a list.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "I am still being harrassed by 10 others."
+AC_2: "I made a comment below and would like to know how to make them stop calling me for my deadbeat kids debt.
+"
+Key Phrases of AC_1:
+  - Harrassed
+  - Others
+
+Key Phrases of AC_2:
+  - Comment
+  - Debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Harrased", "Comment")
+  - ("Others", "Debt")
+
+Reason:
+  - Being harassed may lead to making comments online.
+  - Harassment often involves other people who might be involved in your debt issues.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "I am being forced to drop my land line which I have had for 40 years to get away from them."
+AC_2: "I made a comment below and would like to know how to make them stop calling me for my deadbeat kids debt.
+"
+Key Phrases of AC_1:
+  - Land line
+  - Drop
+  - Debtors
+
+Key Phrases of AC_2:
+  - Comment
+  - Deadbeat kids
+  - Stop calling
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Drop", "Stop calling")
+  - ("Debtors", "Deadbeat kids")
+  - ("Land line", "Comment") # This one might need some reasoning why they're connected...
+
+Reason:
+  - Dropping your phone service may help prevent unwanted calls (like those from debt collectors).
+  - Both arguments deal with dealing with debtors/deadbeats.
+  - There's no clear connection here... maybe someone could explain?
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "Only one collector took me off their list."
+AC_2: "I am being forced to drop my land line which I have had for 40 years to get away from them.
+"
+Key Phrases of AC_1:
+  - Collector
+  - List
+  
+Key Phrases of AC_2:
+  - Forced
+  - Drop land line
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collector", "Forced")
+  - ("List", "Drop land line")
+
+Reason:
+  - Being forced implies collectors may take people off lists.
+  - Dropping your landline might make you appear on some collector's list.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "I am still being harrassed by 10 others."
+AC_2: "I am being forced to drop my land line which I have had for 40 years to get away from them.
+"
+Key Phrases of AC_1:
+  - Harassed
+  - Others
+
+Key Phrases of AC_2:
+  - Forced
+  - Landline
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Harassed", "Forced")
+  - ("Others", "Landline")
+
+Reason:
+  - Being harassed forces me to take drastic measures like dropping my landline.
+  - Those who harass me may also try to disrupt other aspects of my life such as taking away my landline.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00843
+AC_1: "because I have a near perfect score of 797 ."
+AC_2: "It really bugs me 
+"
+AC_1 = ["near perfect score"]
+AC_2 = []
+related_phrases = [("perfect score")]
+reasons = [""]
+
+AC_1 = []
+AC_2 = ["bugs me"]
+related_phrases = []
+reasons = []
+
+AC_1 = ["near perfect score","797"]
+AC_2 = ["really bugs me"]
+related_phrases = [("near perfect score"),("really bugs me")]
+reasons = ["I am very proud of my high score.", "This issue annoys me."]
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01109
+AC_1: "Zombie debt collectors who use partial payments, acknowledgement of the debt in writing, or other tactics are effectively hard-wiring around the laws having to do with the statute of limitations."
+AC_2: "There are still too often abuses by debt collectors in regard to time-barred debts.
+"
+Key Phrases of AC_1:
+  - Zombie debt collectors
+  - Partial payments
+  - Statute of limitation
+  
+Key Phrases of AC_2:
+  - Debt collector abuse
+  - Time-barred debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Partial payments", "Time-barred debt")
+  - ("Statute of limitation", "Debt collector abuse")
+
+Reason:
+  - Using partial payment may make the debt no longer time barred.
+  - Ignoring the law on statue of limitation allows debt collection abuse.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01109
+AC_1: "I have witnessed situations where consumers were effectively tricked into setting up a series of payments on a long time-barred debt."
+AC_2: "There are still too often abuses by debt collectors in regard to time-barred debts.
+"
+Key Phrases of AC_1:
+  - Time-barred debt
+  - Consumers
+  - Payments
+
+Key Phrases of AC_2:
+  - Debt collectors
+  - Abuses
+  - Time-barred debts
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers", "Debt collectors")
+  - ("Payments", "Abuses")
+  - ("Time-barred debt", "Time-barred debts")
+
+Reason:
+  - Debt collectors abuse consumers through time-barred debts.
+  - There are abuses when making payments on time-barred debts.
+  - Both arguments talk about time-barred debts.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01109
+AC_1: "I have witnessed situations where consumers were effectively tricked into setting up a series of payments on a long time-barred debt."
+AC_2: "Zombie debt collectors who use partial payments, acknowledgement of the debt in writing, or other tactics are effectively hard-wiring around the laws having to do with the statute of limitations.
+"
+Key Phrases of AC_1:
+  - Consumers
+  - Trickled into setting up a payment plan
+  - Long-time barred debt
+
+Key Phrases of AC_2:
+  - Zombie debt collector
+  - Partial payments
+  - Statute of limitation
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers", "Partial payments")
+  - ("Long-time barred debt", "Statute of limitation")
+  - ("Trickled into setting up a payment plan", "Zombie debt collector") 
+
+Reason:
+  - Debt collectors may trick consumers into making partial payments.
+  - Making partial payments does not reset the statute of limitation on debts.
+  - Using zombie debt collection methods allows them to circumvent statutes of limitation.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00230
+AC_1: "In my experience most attorneys who represent a debtor do not return communication inquiries about representation. In most cases the delay in response may be caused by the debtor paying installment payments to the attorney to file a bankruptcy proceeding. When the debtor does not keep the repayment terms a creditor is presently not notified that the representation has terminated "
+AC_2: "FDCPA should define what constitutes reasonable period of time.
+"
+AC_1's Key Phrases:
+  - Representation
+  - Communication inquiry
+  - Bankruptcy proceedings
+  - Creditor notification
+  - Repayment term
+
+AC_2's Key Phrases:
+  - FDCPA (Fair Debt Collection Practices Act)
+  - Reasonable period of time
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Representation", "FDCPA")
+  - ("Communication inquiry", "Creditor notification")
+  - ("Bankruptcy proceedings", "Repayment term")
+  - ("Reasonable period of time", "Repaysment term")
+
+Reasons:
+  - Attorneys representing debtors often fail to respond to communications due to payment delays or termination of services under FDCPA.
+  - Delayed responses may lead to lack of creditor notifications when repayment terms are breached.
+  - Terminated representations require timely updates on bankruptcy proceedings to creditors.
+  - Defining a'reasonable period' would help clarify expectations around repayments and terminations under FDCPA.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00575
+AC_1: "In fact, in about 1/3 of the states have state laws that prohibit any fees/surcharges for payment by credit/debit cards (unless it is a government agency)."
+AC_2: "There should never be a fee for payment.
+"
+AC_1's Key Phrases:
+  - State laws
+  - Credit/debit card
+  - Fees/surcharges
+  
+AC_2's Key Phrases:
+  - Payment
+  - Fee
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("State laws", "Payment")
+  - ("Credit/debit card", "Fee")
+  - ("Fees/surcharges", "Fee")
+
+Reasons:
+  - There are some states where there are no extra charges when paying using credit or debit cards.
+  - Extra charge on payments is considered unfair.
+  - Surcharging customers who pay via credit or debit cards is against law in most places.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00757
+AC_1: "as such a requirement would expose the debtor to the danger of ID theft."
+AC_2: "It is unwise to require that the debt collector send sensitive personal information to the debtor (e.g., SSN, account number
+"
+Key Phrases of AC_1:
+  - Requirement
+  - Danger of ID theft
+  
+Key Phrases of AC_2:
+  - Debt collector
+  - Sensitive personal information
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Requirement", "Sensitive personal information")
+  - ("Danger of ID theft", "Debt collector")
+
+Reason:
+  - Requiring sending sensitive info exposes one to the risk of identity theft.
+  - Sending sensitive info puts the debtor at risk of being targeted by debt collectors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00808
+AC_1: "There is only going to be more medical debt."
+AC_2: "and I was tempted to say why? 
+"
+Key Phrases of AC_1:
+  - Medical debt
+  
+Key Phrases of AC_2:
+  - Why
+
+Related Key Phrases between AC_1 and AC_2 :
+  - (Medical debt, Why)
+
+Reason:
+  - There will be more medical debt because there's no clear answer to 'why'.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00808
+AC_1: "because what is available now, suing the debt collector, has not put a dent in their egregious behavior."
+AC_2: "I hope this has a good outcome and there will be laws and fines for those companies that do this,
+"
+Key Phrases of AC_1:
+  - Egregious behavior
+  - Debt collector
+  
+Key Phrases of AC_2:
+  - Laws
+  - Fines
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Egregious behavior", "Laws")
+  - ("Debt collector", "Fines")
+
+Reason:
+  - There need to be new laws against egregious behaviors like debt collectors.
+  - Companies who engage in such practices deserve heavy fines.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01244
+AC_1: "The original lender or the agencies working on their behalf have more than reasonable time to collect on an outstanding amount owed."
+AC_2: "Partial payments should NOT revive the debt.
+"
+Key Phrases of AC_1:
+  - Original lender
+  - Outstanding amount owed
+  - Agencies working on their behalf
+
+Key Phrases of AC_2:
+  - Partial payments
+  - Revive the debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Original lender", "Revive the debt")
+  - ("Agencies working on their behalf", "Partial payments")
+  - ("Outstanding amount owed", "Revive the debt")
+
+Reason:
+  - An original lender may allow partial payment if they want to revive the debt.
+  - If there's no revival of debt then why would any agency make partial payments?
+  - When an outstanding amount is paid partially, lenders might consider reviving the debt.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01244
+AC_1: "We have rules in place on both collecting debts and on reporting them and partial payment on a debt should not circumvent those rules."
+AC_2: "Partial payments should NOT revive the debt.
+"
+Key Phrases of AC_1:
+  - Rules
+  - Collecting debts
+  - Reporting debts
+  - Partial payment
+
+Key Phrases of AC_2:
+  - Partial payments
+  - Revive the debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Rules", "Revive the debt")
+  - ("Collecting debts", "Revive the debt")
+  - ("Reporting debts", "Revive the debt")
+  - ("Partial payment", "Revive the debt")
+
+Reason:
+  - Our existing rules prevent reviving debts through partial payments.
+  - Making partial payments does not allow us to collect debts again.
+  - We cannot report debts if making partial payments doesn't count towards paying off the full amount.
+  - If partial payments don’t help pay back our loans then they shouldn’t let us start over.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01301
+AC_1: "because the collection agency gets their cut (commission) off the top."
+AC_2: "when actually, principal on the debt never decreases 
+"
+Key Phrases of AC_1:
+  - Collection agency
+  - Commission
+  - Debt
+
+Key Phrases of AC_2:
+  - Principal on the debt
+  - Never decrease
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collection agency", "Principal on the debt")
+  - ("Commission", "Never decrease")
+
+Reason:
+  - Collection agencies earn commission based on the amount collected.
+  - However, this means the actual debt or principal does not reduce over time.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01301
+AC_1: "so that consumers can make an informed choice before wasting their money on a debt they may not owe."
+AC_2: "I submit to the CFPB to finalize the "Know Before You Owe" rule and to outlay the debt validation rules
+"
+Key Phrases of AC_1:
+  - Informed choice
+  - Debt they may not owe
+  
+Key Phrases of AC_2:
+  - Know Before You Owe
+  - Debt validation rules
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Informed choice", "Debt validation rules")
+  - ("Wasting their money on a debt they may not owe", "Know Before You Owe")
+
+Reason:
+  - Making an informed choice prevents people from wasting their money on debts they do not own.
+  - Knowing what one owes beforehand (i.e., through 'know before you owe') ensures proper debt validation.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00623
+AC_1: "They call over and over to harass debtors "
+AC_2: "and they should be limited to one call per day with a required voicemail stating their purpose.
+"
+Key Phrases of AC_1:
+  - Harassment
+  - Debtors
+  - Call over and over
+  
+Key Phrases of AC_2:
+  - One call per day
+  - Voicemail
+  - Required statement
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Call over and over", "One call per day")
+  - ("Harassment", "Required statement")
+
+Reason:
+  - Limiting calls reduces harassment.
+  - Providing a required statement on voicemails informs callers' purposes.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01417
+AC_1: "If anything, I believe that a national statute of limitations would actually stop the process of zombie debt."
+AC_2: "I respectfully disagree with your assessment.
+"
+AC_1 = ["national statute of limitations","zombie debt"]
+AC_2 = ["assessment"]
+
+related_phrases = [("statute of limitations", "debt"),("assessments", "limits")]
+reasons = [
+    ('Zombie debts will cease once there\'s a limit on them.'),
+    ('Assessment limits exist.')
+]
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01417
+AC_1: "People move from place to place."
+AC_2: "Again, we live in a transient society.
+"
+Step 1: 
+AC_1 = People move from place to place.
+AC_2 = Again, we live in a transient society.
+
+Step 2: 
+Key Phrases of AC_1:
+  - Move from place to place
+  - Place
+  - People
+  
+Key Phrases of AC_2:
+  - Transient society
+  - Live in a transient society
+
+Step 3: 
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Move from place to place", "Transient society")
+  - ("Place", "Live in a transient society")
+  - ("People", "Transient society")
+
+Step 4: 
+Reasons:
+  - Moving people from one place to another contributes to living in a transient society.
+  - Places where people reside contribute to making our society transient.
+  - People moving around make up part of what constitutes a transient society.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01417
+AC_1: "Now, because I live in Wisconsin, "
+AC_2: "the SOL has passed 
+"
+AC_1 = ["Wisconsin"]
+AC_2 = []
+related_phrases = [("Wisconsin","")]
+reasons = []
+
+# NOTE: Please do not modify this cell
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01417
+AC_1: "Now, because I live in Wisconsin, "
+AC_2: "and I can no longer be sued here.
+"
+Key Phrases of AC_1:
+  - Live in Wisconsin
+  
+Key Phrases of AC_2:
+  - Sued here
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Live in Wisconsin", "Sued here") 
+  
+Reason:
+  - Living in Wisconsin means one cannot be sued there.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01417
+AC_1: "the SOL has passed "
+AC_2: "and I can no longer be sued here.
+"
+Key Phrases of AC_1:
+  - SOL
+  - Passed
+  
+Key Phrases of AC_2:
+  - Sued
+  - Here
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Passed", "Here")
+  - ("Passed", "Sued")
+  
+Reason:
+  - When something passes, it may also end up somewhere (here).
+  - Passing an event or law might make someone unable to sue anymore.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00902
+AC_1: "The primary law that regulates a debt collector was written in the 70's and did not directly define that is thrown around all too often, harassment (among others)."
+AC_2: "Because of this, if a debt collector sends a letter and makes a phone call, he may very well be held accountable in a court of law for "harassment".
+"
+Key Phrases of AC_1:
+  - Debt collector
+  - Primary law
+  - Written in the 70's
+  - Harassment
+
+Key Phrases of AC_2:
+  - Court of law
+  - Held accountable
+  - Sends a letter
+  - Makes a phone call
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Primary law", "Court of law")
+  - ("Harassment", "Held accountable")
+  - ("Debt collector", "Makes a phone call")
+  - ("Written in the 70's", "Sends a letter") #Note: This one might need some extra reasoning or context information to make sense.
+
+Reason:
+  - The primary law regulating debt collectors is enforced through courts of law.
+  - If a debt collector harasses someone, they will likely face legal consequences.
+  - Debt collectors typically communicate via letters and phone calls.
+  - Laws regarding debt collection were established decades ago, so sending letters would fall under those old laws.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00902
+AC_1: "as defending a suit as frivolous as the one described above would cost much more than settling with a consumer."
+AC_2: "Most collectors settle out of court
+"
+Key Phrases of AC_1:
+  - Frivolous lawsuit
+  - Cost
+
+Key Phrases of AC_2:
+  - Collectors
+  - Out-of-court settlement
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Frivoulus lawsuit", "Out-of-court settlement")
+  - ("Cost", "Collectors") 
+  
+Reason:
+  - Defending a frivolous lawsuit costs money.
+  - Most collectors choose an out-of-court settlement because they don't want to spend time or resources on legal battles.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00903
+AC_1: "The underlying issue is this system is abused by many individuals who mass submit disputes repeatedly that have no validity."
+AC_2: "Agencies and creditors are forced to sift through all of those frivolous disputes in order to actually address legitimate disputes.
+"
+Step 1: Key Phrases of Argument AC_1
+- System abuse
+- Mass submission
+- Disputes without validity
+
+Step 2: Key Phrases of Argument AC_2
+- Agencies and creditors
+- Frivolous disputes
+- Legitimate disputes
+
+Step 3: Related Key Phrases between AC_1 and AC_2
+- ("System abuse", "Frivolous disputes")
+- ("Mass submission", "Legitimate disputes")
+- ("Disputes without validity", "Frivoulus disputes")
+
+Step 4: Reasoning Behind Each Individual Phrase Pair
+- System abuse causes agencies and creditors to deal with frivolous disputes.
+- Mass submissions lead to difficulties in addressing legitimate disputes.
+- Disputes lacking validity contribute to the problem of dealing with frivolous ones.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01164
+AC_1: "because the collection agency takes a percentage"
+AC_2: "The debtor is always subject to the debt
+"
+Key Phrases of AC_1:
+  - Collection agency
+  - Percentage
+  
+Key Phrases of AC_2:
+  - Debtor
+  - Debt
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Collection agency", "Debtor")
+  - ("Percentage", "Debt")
+
+Reason:
+  - A collection agency deals with debtors.
+  - A collector gets a percentage of the debt collected.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01164
+AC_1: "because the debtor is only paying commission, interest and late charges."
+AC_2: "In essence, the original debt remains the same
+"
+Key Phrases of AC_1:
+  - Commission
+  - Interest
+  - Late charges
+  
+Key Phrases of AC_2:
+  - Original debt
+  - Same
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Commission", "Original debt")
+  - ("Interest", "Same")
+  - ("Late charges", "Original debt")
+
+Reason:
+  - Paying commission does not change the original debt.
+  - Paying interest keeps the amount due the same.
+  - Adding late fees also doesn't reduce the principal amount (original debt).
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01164
+AC_1: "Even after over 30 yrs., the debt was recorded as a Federal Abstract of Judgement at the county registrar (filed by private attorneys) as if I still owe the debt."
+AC_2: "I wasn't properly served.
+"
+AC_1's Key Phrases:
+  - Debt
+  - County Registrar
+  - Private Attorneys
+  
+AC_2's Key Phrases:
+  - Not Properly Served
+  
+Related Key Phrases Between AC_1 & AC_2 :
+  - ("Debt", "Not Properly Served") # Reason: If one isn't properly served then they cannot file any judgement against them so there would be no record of their debt.
+  - ("County Registrar", "Private Attorneys") # Reason: This is where the problem lies because this is what happened when my debt was filed. It was done illegally through private attorneys who were supposed to represent me but instead represented the bank.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00816
+AC_1: "Debtors often respond with "I don't owe anything", which is vague and makes it harder to cater for their needs."
+AC_2: "If any rule making is needed, it is about the types of disputes a debtor may bring forth and the documentation needed for both the substantiation of that dispute
+"
+Key Phrases of AC_1:
+  - Debtors
+  - Vague response
+  - Cater for their needs
+  
+Key Phrases of AC_2:
+  - Disputes
+  - Documentation
+  - Substantiation
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Vague response", "Substantiation")
+  - ("Cater for their needs", "Documentation")
+  - ("Disputes", "Debtors")
+
+Reason:
+  - A vague response does not provide enough information for substantiation.
+  - Providing necessary documentation caters for debtors' needs during disputes.
+  - Debts involve disputes over various issues including those brought forward by debtors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00362
+AC_1: "so that I can make an informed decision regarding the debt in question."
+AC_2: "I should know if a debt is time-barred,
+"
+Step 1: 
+Identified key phrases of Argument AC_1: ["informed decision","debt"]
+ Identified key phrases of Argument AC_2: ["time-barred"]
+
+Step 2: 
+List of Related Key Phrases between AC_1 and AC_2: [("informed decision", "time-barred"),("debt", "time-barred")]
+
+Step 3: 
+Reasons for Each Individual Related Key Phrase:
+  - An informed decision depends on whether a debt is time-barred or not.
+  - Debt status affects being time-barred.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00362
+AC_1: "I should know if a debt is time-barred,"
+AC_2: "The information should be in the validation notice.
+"
+Key Phrases of AC_1:
+  - Debt
+  - Time barred
+  
+Key Phrases of AC_2:
+  - Information
+  - Validation notice
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt", "Information")
+  - ("Time barred", "Validation notice")
+
+Reason:
+  - Knowing whether a debt is time-barred involves having access to certain information.
+  - If a debt is time-barred, this would typically be indicated on a validation notice.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00362
+AC_1: "so that I can make an informed decision regarding the debt in question."
+AC_2: "The information should be in the validation notice.
+"
+Key Phrases of AC_1:
+  - Informed decision
+  - Debt in question
+  
+Key Phrases of AC_2:
+  - Information
+  - Validation notice
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Informed decision", "Information")
+  - ("Debt in question", "Validation notice")
+
+Reason:
+  - Making an informed decision needs relevant information.
+  - Relevant information on debt will be found in the validation notice.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01236
+AC_1: "I do not think collectors would mind reimbursing consumers who are charged per call or per message."
+AC_2: "Add $5 for the hassle of getting the refund.
+"
+AC_1 = ["collectors","consumers"]
+AC_2 = ["hassle","refund"]
+
+related_phrases = [("collectors","hassle"),("consumers","refunds")]
+
+reasons = [
+    'Collectors may experience some trouble when dealing with refunds.',
+    'Consumers might find it difficult to obtain their reimbursement.'
+]
+
+print(AC_1)
+print(AC_2)
+print(related_phrases)
+for i,j in reasons:
+    print(f"{i} {j}")
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01236
+AC_1: "Honest, respectful and open communication by all parties is the key to giving consumers enough information to identify and understand debts and come to workable resolutions for legitimate debts."
+AC_2: "Collectors should have a way to make contact with consumers who choose not to have a flat-rate telephone service.
+"
+Key Phrases of AC_1:
+  - Honest communication
+  - Respectful communication
+  - Open communication
+  - Consumers' debt resolution
+  - Legitimate debts
+  
+Key Phrases of AC_2:
+  - Collectors making contact
+  - Flat rate phone service
+  - Telephone services
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers' debt resolution", "Telephone services")
+  - ("Legitimate debts", "Flat rate phone service")
+  - ("Open communication", "Making contact")
+  - ("Respectful communication", "Collectors making contact") 
+  
+Reasons:
+  - For resolving consumer's debt, collectors need to communicate openly.
+  - Making contact through any means (including non-flat rate phones) is part of collector's job.
+  - Respecting consumers involves allowing them choice over their own communications methods.
+  - Honesty also implies being truthful when communicating with customers regarding payment options.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01236
+AC_1: "Honest, respectful and open communication by all parties is the key to giving consumers enough information to identify and understand debts and come to workable resolutions for legitimate debts."
+AC_2: "Collectors who are not honest and respectful should be fined or lose their right to be licensed.
+"
+Key Phrases of AC_1:
+  - Honest communication
+  - Respectful communication
+  - Open communication
+  - Consumers' rights
+  - Legitimate debt resolution
+  
+Key Phrases of AC_2:
+  - Collectors' honesty
+  - Collectors' respectfulness
+  - Fines on collectors
+  - Licensing of collectors
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Consumers' rights", "Fines on collectors")
+  - ("Legitimate debt resolution", "Licensing of collectors")
+  - ("Open communication", "Collectors' honesty")
+  - ("Respectful communication", "Collectors' respectfulness")
+
+Reason:
+  - Honesty ensures consumers' rights.
+  - Respecting consumers promotes legitimacy in debt resolution.
+  - Openness encourages collectors to be truthful.
+  - Being respectful towards consumers means being honest too.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01236
+AC_1: "It is also the key to stopping calls to wrong numbers."
+AC_2: "Collectors who are not honest and respectful should be fined or lose their right to be licensed.
+"
+Key Phrases of AC_1:
+  - Wrong number
+  - Stop call
+
+Key Phrases of AC_2:
+  - Collectors
+  - Honest collector
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Wrong number", "Honest collector")
+  - ("Stop call", "Respectful collectors") #Note: This was added manually since there's no direct relation given in the arguments.
+
+Reason:
+  - Stopping unwanted calls involves dealing with dishonest callers.
+  - Respectful collectors do not make unwanted calls.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00963
+AC_1: "Most people are aware of their obligations, but just cannot pay them now."
+AC_2: "But, a disputed account is rare.
+"
+Key Phrases of AC_1:
+  - Obligations
+  - Pay them now
+  
+Key Phrases of AC_2:
+  - Disputed account
+  - Rare
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Obligations", "Disputed account")
+  
+Reason:
+  - Most people who cannot pay their debts may dispute accounts.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00496
+AC_1: "I hear there isn't room in the jails to put all the bill collectors."
+AC_2: "I don't think that is the solution, 
+"
+AC_1:
+  - Bill collector
+  - Jails
+
+AC_2:
+  - Solution
+
+Related Key Phrases between AC_1 and AC_2 :
+  - None
+
+Reason:
+  - There's no relation found between two arguments.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00496
+AC_1: "A lot of the multiple calls problems come from an dialer calling, if it doesn't get an answer it will call back later."
+AC_2: "I don't think that is the solution, 
+"
+AC_1 = ["dialer calling"]
+AC_2 = []
+related_phrases = [("dialer calling","")]
+reasons = []
+
+AC_1 = ["multiple calls problems"]
+AC_2 = []
+related_phrases.append(("multiple calls problems",""))
+reasons.append("")
+
+AC_1 = ["answer"]
+AC_2 = []
+related_phrases.append(("answer",""))
+reasons.append("")
+
+AC_1 = ["call back later"]
+AC_2 = []
+related_phrases.append(("call back later",""))
+reasons.append("")
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01265
+AC_1: "Interest and other fees would make the amounts unrecognizable either even in the event I could miraculously determine that $757.24 is an old utility bill."
+AC_2: "I never did business with Joe's Collection Agency and would never recognize any debt they allege is owed.
+"
+AC_1:
+  - Interest
+  - Fees
+  - Utility bills
+  
+AC_2:
+  - Debt
+  - Business
+  - Recognition
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Fees", "Debt")
+  - ("Utility bills", "Business")
+  - ("Recognition", "Debt")
+  - ("Interest", "Debt")
+
+Reason:
+  - High interest rates lead to high debt.
+  - Utility bills may cause financial issues leading to debt if unpaid.
+  - Unrecognized debts often result from businesses or agencies claiming money without proper documentation.
+  - Accumulated interest on unrecognized debt will increase over time.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01076
+AC_1: "because they don't believe me."
+AC_2: "Collectors are not calling me repeatedly 
+"
+Key Phrases of AC_1:
+  - Don't believe me
+  - Collectors
+
+Key Phrases of AC_2:
+  - Not calling me repeatedly
+  - Collectors
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Don't believe me", "Not calling me repeatedly")
+  - ("Collectors", "Collectors") # Same entity so no need to explain why its similar
+
+Reason:
+  - They may not call because I don't believe them.
+  - There's nothing special about collectors here.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01076
+AC_1: "because there are so many people with the same last name as me and one of my initials."
+AC_2: "They are calling me repeatedly 
+"
+Key Phrases of AC_1:
+  - Same last name
+  - Initials
+  
+Key Phrases of AC_2:
+  - Calling me repeatedly 
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Same last name", "Calling me repeatedly ")
+  - ("Initials", "Calling me repeatedly ")
+
+Reason:
+  - People with the same last name may call me repeatedly.
+  - Those who know my initial may also call me repeatedly.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "It's an especially dirty tactic to serve someone by mail."
+AC_2: "I don't believe that a summons should ever be served by mail. 
+"
+Key Phrases of AC_1:
+  - Dirty tactic
+  - Serve someone by mail
+  
+Key Phrases of AC_2:
+  - Summons
+  - Mail
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Dirty tactic", "Summons")
+  - ("Serve someone by mail", "Mail")
+
+Reason:
+  - Serving someone by mail is considered a dirty tactic.
+  - Sending a summons via mail is also serving them by mail.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "It's unreliable and puts the debtor at a disadvantage."
+AC_2: "I don't believe that a summons should ever be served by mail. 
+"
+Key Phrases of AC_1:
+  - Unreliable
+  - Debtor
+  - Disadvantage
+  
+Key Phrases of AC_2:
+  - Summons
+  - Mail
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Unreliable", "Summons")
+  - ("Debtor", "Mail")
+  - ("Disadvantage", "Summons")
+
+Reason:
+  - Serving a summons via mail may make it seem unreliable.
+  - Sending a summons through mail might put the debtor at a disadvantage.
+  - Serving a summons via mail could cause disadvantages.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "I don't believe that a summons should ever be served by mail. "
+AC_2: "If the debt collector wants to sue, they should be required to serve the person directly in the city and state in which they currently reside.
+"
+Key Phrases of AC_1:
+  - Summons
+  - Mail
+  
+Key Phrases of AC_2:
+  - Debt collector
+  - Sue
+  - City
+  - State
+  - Reside
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Summons", "Debt collector")
+  - ("Mail", "City")
+  - ("State", "Reside") #Note: This one might seem unrelated at first glance, however, if someone resides somewhere then their address would include both city and state information.
+
+Reason:
+  - Serving summons via mail may lead to issues with debt collectors who want to sue people.
+  - If serving summons needs to happen through direct service (in-person), this means sending them to the exact location where the person lives (city) and also specifying the correct state because addresses often require both pieces of info.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "It's an especially dirty tactic to serve someone by mail."
+AC_2: "If the debt collector wants to sue, they should be required to serve the person directly in the city and state in which they currently reside.
+"
+Key Phrases of AC_1:
+  - Dirty tactic
+  - Serve someone by mail
+  
+Key Phrases of AC_2:
+  - Debt collector
+  - Sue
+  - City and state
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Dirty tactic", "Debt collector")
+  - ("Serve someone by mail", "City and state")
+
+Reason:
+  - Serving someone by mail is considered a dirty tactic used by some debt collectors.
+  - If a debt collector sues, they need to serve the person directly in their current location (city and state).
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "It's unreliable and puts the debtor at a disadvantage."
+AC_2: "If the debt collector wants to sue, they should be required to serve the person directly in the city and state in which they currently reside.
+"
+Step 1: 
+AC_1 = It's unreliable and puts the debtor at a disadvantage.
+AC_2 = If the debt collector wants to sue, they should be required to serve the person directly in the city and state in which they currently reside.
+
+Step 2: 
+AC_1 Key Phrases: [unreliable, debtor]
+AC_2 Key Phrases: [debt collector, sue]
+
+Step 3: 
+AC_1 & AC_2 Related Key Phrases: [(debtor, debt collector), (sue, unreliable)]
+
+Step 4: 
+[(debtor, debt collector)] Reason: Debt collectors put debtors at a disadvantage.
+[sue, unreliable] Reason: Suing someone who cannot be served reliably is unfair.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01383
+AC_1: "It's unreliable and puts the debtor at a disadvantage."
+AC_2: "It's an especially dirty tactic to serve someone by mail.
+"
+Key Phrases of AC_1:
+  - Unreliable
+  - Debtor
+  - Disadvantage
+  
+Key Phrases of AC_2:
+  - Dirty tactic
+  - Serve someone by mail
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Unreliable", "Dirty tactic")
+  - ("Debtor", "Serve someone by mail")
+  
+Reason:
+  - Being unreliable is considered a dirty tactic.
+  - Serving someone by mail disadvantages debtors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "This would give the debtor another chance to pay in the simplest way, before getting tangled up in idiot phone calls,"
+AC_2: "If a debt is to be turned over to a collection agency, the owner of the debt should be required to send a fully itemized statement to the debtor.
+"
+Key Phrases of AC_1:
+  - Another chance
+  - Pay in the simplest way
+  - Idiot phone calls
+  
+Key Phrases of AC_2:
+  - Debt collector
+  - Fully itemized statement
+  - Debtor
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Another chance", "Fully itemized statement")
+  - ("Pay in the simplest way", "Debt collector")
+  - ("Idiot phone calls", "Debtor")
+
+Reason:
+  - Giving another chance may require an itemized statement.
+  - Simple payment methods reduce interactions with collectors or their agents (idiot phone calls).
+  - An itemized statement will help the debtor understand what they owe.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "and it would help the debtor identify the debt."
+AC_2: "If a debt is to be turned over to a collection agency, the owner of the debt should be required to send a fully itemized statement to the debtor.
+"
+Step 1: 
+Identified key phrases of AC_1: ["debtor", "identify"]
+ Identified key phrases of AC_2: ["collection agency", "itemized statement"]
+
+Step 2: 
+List of related key phrases from AC_1 and AC_2: [("debt", "collection"),("identifying","statement")]
+ Reason: Debtors need to know what they owe when dealing with collections.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "The debt owner already has the itemized bill;"
+AC_2: "If a debt is to be turned over to a collection agency, the owner of the debt should be required to send a fully itemized statement to the debtor.
+"
+Key Phrases of AC_1:
+  - Debt owner
+  - Itemized bill
+  
+Key Phrases of AC_2:
+  - Collection agency
+  - Fully itemized statement
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt owner", "Collection agency")
+  - ("Itemized bill", "Fully itemized statement")
+  
+Reason:
+  - If there's an issue with payment, then the debt collector will take control (collection agency).
+  - An itemized bill is similar to a fully itemized statement because both provide detailed information on what was purchased or owed.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "it would be just a matter of copying it again and sending it."
+AC_2: "If a debt is to be turned over to a collection agency, the owner of the debt should be required to send a fully itemized statement to the debtor.
+"
+Key Phrases of AC_1:
+  - Copying it again
+  - Sending it
+  
+Key Phrases of AC_2:
+  - Debt
+  - Collection agency
+  - Itemized statement
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Copying it again", "Debt")
+  - ("Sending it", "Itemized statement")
+
+Reason:
+  - When dealing with debts, one might need to copy documents multiple times (e.g., when sending them to a collection agency).
+  - An itemized statement may require being sent to the debtor if they owe money.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "The debt owner already has the itemized bill;"
+AC_2: "it would be just a matter of copying it again and sending it.
+"
+Key Phrases of AC_1:
+  - Debt owner
+  - Itemized bill
+  
+Key Phrases of AC_2:
+  - Copying
+  - Sending
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt owner", "Copying")
+  - ("Itemized bill", "Sending")
+
+Reason:
+  - The debt owner needs an itemized bill to copy.
+  - After copying, send the itemized bill to the debtor.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00656
+AC_1: "I've dealt with those who do this, and those who don't."
+AC_2: "there should be a requirement that the original creditor make a true, good-faith effort to contact the debtor.
+"
+AC_1 = ["dealt","those"]
+AC_2 = ["requirement","original"]
+
+related_phrases = [("debtors","creditors"),("good faith efforts","true")]
+reasons = [
+    "Debtors deal with creditors.",
+    "Good faith efforts require true requirements."
+]
+
+print(AC_1)
+print(AC_2)
+print(related_phrases)
+print(reasons)
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00212
+AC_1: "I do NOT owe any debt but have a COMMON FIRST and LAST NAME."
+AC_2: "My Constitutional rights are violated every time a lawyer fails to perform due diligence, per rule 137, BEFORE SIGNING and FILING COURT PAPER against me.
+"
+Key Phrases of AC_1:
+  - Debt
+  - Common first name
+  - Last name
+  
+Key Phrases of AC_2:
+  - Constitutional rights
+  - Lawyer
+  - Due diligence
+  - Court paper
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Debt", "Court paper")
+  - ("Common first name", "Constitutional rights")
+  - ("Last name", "Due diligence")
+  
+Reason:
+  - I don't own any debt so there's no need for court papers.
+  - Having common names may violate my constitutional right.
+  - Using last name without doing proper research (due diligence) violates my rights.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 01059
+AC_1: "As I live in Indiana - a "business-oriented" state, "
+AC_2: "it seems the laws favor the debt collectors over the debtors.
+"
+Key Phrases of AC_1:
+  - Business oriented
+  - State
+  - Debt collectors
+  - Debtors
+
+Key Phrases of AC_2:
+  - Laws
+  - Favor
+  - Collectors
+  - Debtors
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Business oriented", "Laws")
+  - ("Debt collectors", "Favor")
+  - ("State", "Collectors")
+  - ("Debtors", "Debtors") # This one might seem redundant but still valid because they share similar meaning
+  
+Reason:
+  - In business-oriented states like mine (Indiana), the law favors debt collectors.
+  - The laws favor debt collectors at the expense of debtors.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00840
+AC_1: "I am constantly called up to 5 times a day by numerous collectors for my kids bills."
+AC_2: "I agree with anoymousme,
+"
+AC_1 = ["Constantly called","numerous collectors"]
+AC_2 = []
+related_phrases = [("Constantly called","called"),("Numerous collectors","collectors")]
+reasons = [
+    "Collectors call frequently.",
+    ""
+]
+
+AC_1 = ["kids bills"]
+AC_2 = []
+related_phrases = [("Kids bills","bills")]
+reasons = [
+    "Bills belong to kids",
+]
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00840
+AC_1: "They do not have a land line "
+AC_2: "so they call me!!!On NEWYEARS 
+"
+Key Phrases of AC_1:
+  - They do not have a land line
+  - so they call me!!!
+
+Key Phrases of AC_2:
+  - On NEWYEARs
+  
+Related Key Phrases between AC_1 and AC_2 :
+  - ( 'they', 'NEWYEAR' )
+  - ('call me!!','on')
+  -('landline ','NEWYEAR')
+
+Reason:
+  - They don't have a land line because its new year.
+  - When people dont have landlines, they usually call on special occasions like New Year's day.
+  - People who dont have land lines often make calls during holidays such as New Years.
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00840
+AC_1: "They do not have a land line "
+AC_2: "I am dropping my land line which I have had for 40 years just to be rid of these pests!
+"
+Key Phrases of AC_1:
+  - They do not have a land line
+  
+Key Phrases of AC_2:
+  - Dropping my land line
+  - Pests!
+
+Related Key Phrases between AC_1 and AC_2 :
+  - (None)
+
+Reason:
+  - None
+--------------------------------------------------------------------------------------------------------
+
+essay_id: 00840
+AC_1: "so they call me!!!On NEWYEARS "
+AC_2: "I am dropping my land line which I have had for 40 years just to be rid of these pests!
+"
+Key Phrases of AC_1:
+  - New Year's
+  - Call me
+  
+Key Phrases of AC_2:
+  - Landline
+  - Pests
+
+Related Key Phrases between AC_1 and AC_2 :
+  - ("Call me", "Pests")
+  - ("New Year's", "Landline") # This one might seem unrelated at first glance, however, people often receive unwanted calls during holidays like new year's eve.
+
+Reason:
+  - People who make annoying phone calls (pests) may also disturb us on special occasions such as New Year's Eve when everyone wants to relax or celebrate quietly.
+  - Dropping your landline means getting away from those pesky telemarketers calling you on New Year's Day.

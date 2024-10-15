@@ -1,0 +1,105 @@
+
+Analysis for cdcp dataset with base variant:
+Distance 0: GT Relations = 195, Correctly Predicted = 68, Accuracy = 34.87%
+Distance 1: GT Relations = 41, Correctly Predicted = 7, Accuracy = 17.07%
+Distance 2: GT Relations = 16, Correctly Predicted = 3, Accuracy = 18.75%
+Distance 3: GT Relations = 7, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 4: GT Relations = 4, Correctly Predicted = 1, Accuracy = 25.00%
+Distance 5: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 6: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 7: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 8: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 10: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 11: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+
+Analysis for cdcp dataset with xl variant:
+Distance 0: GT Relations = 195, Correctly Predicted = 118, Accuracy = 60.51%
+Distance 1: GT Relations = 41, Correctly Predicted = 14, Accuracy = 34.15%
+Distance 2: GT Relations = 16, Correctly Predicted = 3, Accuracy = 18.75%
+Distance 3: GT Relations = 7, Correctly Predicted = 2, Accuracy = 28.57%
+Distance 4: GT Relations = 4, Correctly Predicted = 2, Accuracy = 50.00%
+Distance 5: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 6: GT Relations = 2, Correctly Predicted = 2, Accuracy = 100.00%
+Distance 7: GT Relations = 2, Correctly Predicted = 1, Accuracy = 50.00%
+Distance 8: GT Relations = 1, Correctly Predicted = 1, Accuracy = 100.00%
+Distance 10: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 11: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+
+Analysis for cdcp dataset with xxl variant:
+Distance 0: GT Relations = 195, Correctly Predicted = 106, Accuracy = 54.36%
+Distance 1: GT Relations = 41, Correctly Predicted = 13, Accuracy = 31.71%
+Distance 2: GT Relations = 16, Correctly Predicted = 5, Accuracy = 31.25%
+Distance 3: GT Relations = 7, Correctly Predicted = 1, Accuracy = 14.29%
+Distance 4: GT Relations = 4, Correctly Predicted = 2, Accuracy = 50.00%
+Distance 5: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 6: GT Relations = 2, Correctly Predicted = 1, Accuracy = 50.00%
+Distance 7: GT Relations = 2, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 8: GT Relations = 1, Correctly Predicted = 1, Accuracy = 100.00%
+Distance 10: GT Relations = 1, Correctly Predicted = 0, Accuracy = 0.00%
+Distance 11: GT Relations = 1, Correctly Predicted = 1, Accuracy = 100.00%
+
+Analysis for aaec_para dataset with base variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 256, Accuracy = 70.33%
+Distance 1: GT Relations = 174, Correctly Predicted = 119, Accuracy = 68.39%
+Distance 2: GT Relations = 116, Correctly Predicted = 79, Accuracy = 68.10%
+Distance 3: GT Relations = 76, Correctly Predicted = 54, Accuracy = 71.05%
+Distance 4: GT Relations = 47, Correctly Predicted = 34, Accuracy = 72.34%
+Distance 5: GT Relations = 18, Correctly Predicted = 13, Accuracy = 72.22%
+Distance 6: GT Relations = 8, Correctly Predicted = 8, Accuracy = 100.00%
+Distance 7: GT Relations = 4, Correctly Predicted = 4, Accuracy = 100.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 2, Accuracy = 100.00%
+
+Analysis for aaec_para dataset with xl variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 280, Accuracy = 76.92%
+Distance 1: GT Relations = 174, Correctly Predicted = 131, Accuracy = 75.29%
+Distance 2: GT Relations = 116, Correctly Predicted = 79, Accuracy = 68.10%
+Distance 3: GT Relations = 76, Correctly Predicted = 55, Accuracy = 72.37%
+Distance 4: GT Relations = 47, Correctly Predicted = 31, Accuracy = 65.96%
+Distance 5: GT Relations = 18, Correctly Predicted = 13, Accuracy = 72.22%
+Distance 6: GT Relations = 8, Correctly Predicted = 6, Accuracy = 75.00%
+Distance 7: GT Relations = 4, Correctly Predicted = 4, Accuracy = 100.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 1, Accuracy = 50.00%
+
+Analysis for aaec_para dataset with xxl variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 260, Accuracy = 71.43%
+Distance 1: GT Relations = 174, Correctly Predicted = 129, Accuracy = 74.14%
+Distance 2: GT Relations = 116, Correctly Predicted = 84, Accuracy = 72.41%
+Distance 3: GT Relations = 76, Correctly Predicted = 64, Accuracy = 84.21%
+Distance 4: GT Relations = 47, Correctly Predicted = 35, Accuracy = 74.47%
+Distance 5: GT Relations = 18, Correctly Predicted = 13, Accuracy = 72.22%
+Distance 6: GT Relations = 8, Correctly Predicted = 7, Accuracy = 87.50%
+Distance 7: GT Relations = 4, Correctly Predicted = 4, Accuracy = 100.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 2, Accuracy = 100.00%
+
+Analysis for aaec_para_v2 dataset with base variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 251, Accuracy = 68.96%
+Distance 1: GT Relations = 174, Correctly Predicted = 115, Accuracy = 66.09%
+Distance 2: GT Relations = 116, Correctly Predicted = 76, Accuracy = 65.52%
+Distance 3: GT Relations = 76, Correctly Predicted = 47, Accuracy = 61.84%
+Distance 4: GT Relations = 47, Correctly Predicted = 29, Accuracy = 61.70%
+Distance 5: GT Relations = 18, Correctly Predicted = 14, Accuracy = 77.78%
+Distance 6: GT Relations = 8, Correctly Predicted = 5, Accuracy = 62.50%
+Distance 7: GT Relations = 4, Correctly Predicted = 2, Accuracy = 50.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 1, Accuracy = 50.00%
+
+Analysis for aaec_para_v2 dataset with xl variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 267, Accuracy = 73.35%
+Distance 1: GT Relations = 174, Correctly Predicted = 125, Accuracy = 71.84%
+Distance 2: GT Relations = 116, Correctly Predicted = 75, Accuracy = 64.66%
+Distance 3: GT Relations = 76, Correctly Predicted = 42, Accuracy = 55.26%
+Distance 4: GT Relations = 47, Correctly Predicted = 29, Accuracy = 61.70%
+Distance 5: GT Relations = 18, Correctly Predicted = 11, Accuracy = 61.11%
+Distance 6: GT Relations = 8, Correctly Predicted = 5, Accuracy = 62.50%
+Distance 7: GT Relations = 4, Correctly Predicted = 1, Accuracy = 25.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 2, Accuracy = 100.00%
+
+Analysis for aaec_para_v2 dataset with xxl variant:
+Distance 0: GT Relations = 364, Correctly Predicted = 257, Accuracy = 70.60%
+Distance 1: GT Relations = 174, Correctly Predicted = 126, Accuracy = 72.41%
+Distance 2: GT Relations = 116, Correctly Predicted = 80, Accuracy = 68.97%
+Distance 3: GT Relations = 76, Correctly Predicted = 52, Accuracy = 68.42%
+Distance 4: GT Relations = 47, Correctly Predicted = 34, Accuracy = 72.34%
+Distance 5: GT Relations = 18, Correctly Predicted = 12, Accuracy = 66.67%
+Distance 6: GT Relations = 8, Correctly Predicted = 8, Accuracy = 100.00%
+Distance 7: GT Relations = 4, Correctly Predicted = 3, Accuracy = 75.00%
+Distance 8: GT Relations = 2, Correctly Predicted = 2, Accuracy = 100.00%

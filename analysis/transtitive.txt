@@ -1,0 +1,12 @@
+
+Number of GT transitive relations in cdcp with base variant: 31
+Number of Correct transitive relations in cdcp with base variant: 9
+Percentage of Correct Transitive Relations in cdcp with base variant: 29.03%
+
+Number of GT transitive relations in cdcp with xl variant: 31
+Number of Correct transitive relations in cdcp with xl variant: 14
+Percentage of Correct Transitive Relations in cdcp with xl variant: 45.16%
+
+Number of GT transitive relations in cdcp with xxl variant: 31
+Number of Correct transitive relations in cdcp with xxl variant: 17
+Percentage of Correct Transitive Relations in cdcp with xxl variant: 54.84%
